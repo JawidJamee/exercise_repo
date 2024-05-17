@@ -25,6 +25,4 @@ git push
 git branch
 git branch brachname
 git checkout main
-```
-*** iportant links ***
-link for python self-study[udemy](https://www.udemy.com/)
+
